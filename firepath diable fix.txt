@@ -1,0 +1,4 @@
+ have to change two things in Firefox about:config page.
+
+browser.tabs.remote.autostart = false
+browser.tabs.remote.autostart.2 = false
